@@ -1,0 +1,40 @@
+
+.date-time-container {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.date-time-div {
+	width: 100%;
+}
+
+.date-time-div label {
+	margin-right: 70px;
+}
+
+.date-time-label {
+	margin-left: 0px;
+}
+
+.regular-text-date-time {
+	width: 510px;
+}
+
+.form-event-post {
+	margin-bottom: 20px;
+}
+
+.form-event-post label {
+	display: inline-block;
+	width: 200px;
+	margin-right: -100px;
+}
+
+.form-event-post input {
+	width: 1200px;
+}
+
+.form-event-post textarea {
+	width: 1200px;
+}
